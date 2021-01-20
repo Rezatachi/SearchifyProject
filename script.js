@@ -30,8 +30,7 @@ function getData() {
 
     /* 2. do the data stuff with the API */
     var url = "https://api.giphy.com/v1/gifs/search?q=";
-    var input = document.querySelector("input").value;
-    var key = "&api_key=UuP7cf9QuRbkDuXYZfQYDyXDMgD7fZte";
+    var input '#";
     var fullUrl = url+input+key
 
     // AJAX Request
